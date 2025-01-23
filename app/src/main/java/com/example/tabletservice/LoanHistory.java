@@ -55,7 +55,7 @@ public class LoanHistory extends AppCompatActivity {
                 LinearLayout.LayoutParams.MATCH_PARENT,
                 LinearLayout.LayoutParams.WRAP_CONTENT
         );
-        cardParams.setMargins(0, 0, 0, 16); // Add margin bottom
+        cardParams.setMargins(0, 0, 0, 16);
         cardView.setLayoutParams(cardParams);
         cardView.setCardElevation(4);
         cardView.setRadius(8);
